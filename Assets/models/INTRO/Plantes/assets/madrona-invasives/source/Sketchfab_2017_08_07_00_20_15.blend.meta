@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 3ac36a9ed83901745b78325c9ddd72cb
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dandelion seeds base
+    second: {fileID: 2100000, guid: f0cee97c7e1446a488406fb6e458045c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat 712829
+    second: {fileID: 2100000, guid: b872a521161518545a28fee71910a151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HogweedFlower
+    second: {fileID: 2100000, guid: 463e87032c2518c4d84f0258e7f7db86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HogweedFlower dead
+    second: {fileID: 2100000, guid: 0b25070c965306744abf31cf0c246b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4278347329
+    second: {fileID: 2100000, guid: af456679564c78c4190f11106b8aca8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4279146624
+    second: {fileID: 2100000, guid: cc89305cf419aba4982d4e8df0359794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4279146624.001
+    second: {fileID: 2100000, guid: 3da96989e264a8840b2231e025a98d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4279760114
+    second: {fileID: 2100000, guid: f81c18c7d9f5df74eb1b52c07c4c4950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4280804345
+    second: {fileID: 2100000, guid: a8ae09d92b200ac47b98a1823936eea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4281137856
+    second: {fileID: 2100000, guid: 3041f2e962abc8a429326cd7fb0e760d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4282157053
+    second: {fileID: 2100000, guid: 05003532fd5aa414ba178a743f426b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4282157053.001
+    second: {fileID: 2100000, guid: 6ea315f7af8957443a082fea05de234a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4282303739
+    second: {fileID: 2100000, guid: 5d393a5d1f4dbcf4d9e0647d7b338b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4282428153
+    second: {fileID: 2100000, guid: 4582777ffb5c8b143aad8f87db1fd691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4285332435
+    second: {fileID: 2100000, guid: bd2d848a4611ea84993dd649d7da17c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4285790394
+    second: {fileID: 2100000, guid: 574ec60324f4bcb4ea00772f90e66bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4287233202
+    second: {fileID: 2100000, guid: a9ce53591fa61e548b45d8d0103527e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4287233202.001
+    second: {fileID: 2100000, guid: bb632483c31f22a4bbda09acfec338e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4287233429
+    second: {fileID: 2100000, guid: 621185ee25643904cb02ebcf73bd551a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4287806718
+    second: {fileID: 2100000, guid: 735afcc1a172a3e4f98b7b96b3dc46f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4287806718.001
+    second: {fileID: 2100000, guid: ec89276a9882a274f815b47e645b59de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4288281837
+    second: {fileID: 2100000, guid: 7df68732bf351564fa29a014ad57e8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4289525738
+    second: {fileID: 2100000, guid: 4fb303920e310804ab4b60c7946837a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4291813886
+    second: {fileID: 2100000, guid: b6cbfed80e8ab7441a647bdf2b0081ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ink 4291813886.001
+    second: {fileID: 2100000, guid: 71872f50330e826418b3b9bba58cc937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lilac blue
+    second: {fileID: 2100000, guid: 82914e323b7ee364b8379f01eb1a21a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lilac pink
+    second: {fileID: 2100000, guid: 508006fd67e4f7645b16d139e4c43afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lilac purple
+    second: {fileID: 2100000, guid: 3374b6b2086f96e478a44b12ce83c2af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278284045
+    second: {fileID: 2100000, guid: ab7ad2e4ee89831449b9fd4e85e3dfe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278349338
+    second: {fileID: 2100000, guid: 235de9b3e750a4d47a2f812be40c63cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278404469
+    second: {fileID: 2100000, guid: d600641ea09d36444a97b38f447a036f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278429502
+    second: {fileID: 2100000, guid: a727a861af051c545bb0c1543447ce2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278429502.001
+    second: {fileID: 2100000, guid: 2fbb19643be02f141b72ad51dd7a2235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278429803
+    second: {fileID: 2100000, guid: d19f988e1419ddf4582d33f4d71a9f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278475096
+    second: {fileID: 2100000, guid: 986a561f90cd03f46b81eff6a885c547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278497990
+    second: {fileID: 2100000, guid: cfb093ea1dff810489089feda2dab6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278505109
+    second: {fileID: 2100000, guid: 632467f257136a945ac6c44ee265f32a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278575295
+    second: {fileID: 2100000, guid: 155f15c4588c333439bf2b38f5de358e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278756187
+    second: {fileID: 2100000, guid: d68fd12c7584bf24889e080a8387b040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278806872
+    second: {fileID: 2100000, guid: b5192b6967a0951459265131d8921b97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278806872.001
+    second: {fileID: 2100000, guid: b0c760da153cf3c4b8462ad12168a675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4278902909
+    second: {fileID: 2100000, guid: 0766097a2c0149644bdff1d5c878945d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4279017600
+    second: {fileID: 2100000, guid: 0faccc7841fbcf54c8fe66bc7f16fcf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4279146624
+    second: {fileID: 2100000, guid: ed064298680857246928f49b5f43f9a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4279433285
+    second: {fileID: 2100000, guid: ca84a9b0acd70df48940923836d7b1f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4281137856
+    second: {fileID: 2100000, guid: 9927fe1f8f5a77641a4b487cee2273b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4282157053
+    second: {fileID: 2100000, guid: 354b9028fa6daf24cb69be81faf0d597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4282157053.001
+    second: {fileID: 2100000, guid: 01b2eb5272c227442b01a2e1c10160e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4284543698
+    second: {fileID: 2100000, guid: 5a77ff01fdf83e942a06d62f799365c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4284726010
+    second: {fileID: 2100000, guid: 12209e186b0fa66469ae8d399a395df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4287806718
+    second: {fileID: 2100000, guid: d7972f6ff66243d40bec0a102dc6bfe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4287806718.001
+    second: {fileID: 2100000, guid: 608a2e16c6637d449ae24aa8efaa69cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4288740532
+    second: {fileID: 2100000, guid: a8c5ba7e8fb7a404b8973cc378ed9ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4289525738
+    second: {fileID: 2100000, guid: 1b1d7cc98fa73aa488ecce5105568736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilPaint 4291754738
+    second: {fileID: 2100000, guid: 1fa61d972f6ca7e48afac8dc36cb8845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SunFlower center 001
+    second: {fileID: 2100000, guid: ca8f46b8a1570474293856a4da673ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SunFlower center 002
+    second: {fileID: 2100000, guid: 81ab9e5fa5de21049b765195662cd0a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TaperedFlat 4279880848
+    second: {fileID: 2100000, guid: 56fa95ad4cc02e644a7ea2d831488f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TaperedFlat 4285332423
+    second: {fileID: 2100000, guid: 55f90ccd44b936f4a87ba8b1fd9d8249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TaperedFlat 4286902219
+    second: {fileID: 2100000, guid: 276a9a67a5b0675449abf6fdfc9ba0bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TaperedFlat 4290510314
+    second: {fileID: 2100000, guid: b9714672435c8b9439817999c1588737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 108872
+    second: {fileID: 2100000, guid: 222fdcd79b1ea8e47848a29813f6329f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 11054259
+    second: {fileID: 2100000, guid: f09155400a29e4249ba08a5dee6f5b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 13051852
+    second: {fileID: 2100000, guid: 68a578b67d4c5c04383964eee629a280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 14108891
+    second: {fileID: 2100000, guid: 74165d12a405ac649bb9b970ccf8940a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 14709475
+    second: {fileID: 2100000, guid: 3a1a042e7159a264aadd1fb0d39b237e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 15198699
+    second: {fileID: 2100000, guid: 875ac0e2daf840c4090aa7cff55f803d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 1524308
+    second: {fileID: 2100000, guid: 5762c93a5ca13d54c9087d9806b25fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 15843058
+    second: {fileID: 2100000, guid: 9bd51b012d5cdef43b27b2dfaf28dbb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 2245655
+    second: {fileID: 2100000, guid: 7915b3950165b1540886898c306ac431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 2304777
+    second: {fileID: 2100000, guid: 3d57a52ccf7294b4ba56e5d905ce501d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 3511742
+    second: {fileID: 2100000, guid: 51b6b29ba52798f44a47d7c26e3dd9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 3553599
+    second: {fileID: 2100000, guid: 4b4c371eec4970648b3d78b6d473ae29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 5537823
+    second: {fileID: 2100000, guid: 355c00a299353454f84c8b76f0845e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 6251630
+    second: {fileID: 2100000, guid: 62d86d95662737341a9755e17cfd8dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 819821
+    second: {fileID: 2100000, guid: afa6f75dce8d08648a2fcefdff8d08ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 819821.001
+    second: {fileID: 2100000, guid: 8cea9d64c7e9bbb4db29a9e50233df8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThickPaint 9490498
+    second: {fileID: 2100000, guid: 172b558a08ce6cc42afbb806af873638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278271387
+    second: {fileID: 2100000, guid: 468b4f915df69f449b81432135f437c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278271387.001
+    second: {fileID: 2100000, guid: 68623ff7bdd837c42ac3596f488320d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278284045
+    second: {fileID: 2100000, guid: c975de403c66b6c4381d880b17e39101, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278327828
+    second: {fileID: 2100000, guid: 7dca34a6b3713b3478b095ad37a27ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278349609
+    second: {fileID: 2100000, guid: e5489d05d563baf478dc5b07cf5dbdcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278349609.001
+    second: {fileID: 2100000, guid: 7bd8841639bbd8a4e9a095428e6e74b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278404985
+    second: {fileID: 2100000, guid: 5bae1457d9b8ffd4a814e4133df09b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278475096
+    second: {fileID: 2100000, guid: 53fd37d41c9b4c140b8c506fc51124f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278497990
+    second: {fileID: 2100000, guid: 749f71c0555a1d446a44f0efc3e67893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278537019
+    second: {fileID: 2100000, guid: fea564753b3acb2489bc793f3cc5f105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278575295
+    second: {fileID: 2100000, guid: 78945ec19f8fc3a45a55ac8f7ed628a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4278617733
+    second: {fileID: 2100000, guid: 9fad11e20d77fdc40ab959bb2f1e2f91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4279017600
+    second: {fileID: 2100000, guid: 1ab27c8a0ec8887448c7763145b7799f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4279146624
+    second: {fileID: 2100000, guid: aa0c5614ec1305e4baf75df1da967389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4279146624.001
+    second: {fileID: 2100000, guid: 737096abb6ed5ed4e826c21ed937fe33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4279880848
+    second: {fileID: 2100000, guid: 08327814c7d2adb4491e5157a837ccc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4281137856
+    second: {fileID: 2100000, guid: 16114872fe8c3d34cbd47c9e33a323bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4282157053
+    second: {fileID: 2100000, guid: 11914f4d5e0f0644cb5b976badbc8679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4282157053.001
+    second: {fileID: 2100000, guid: 60f7d9a0008482e4dabd1b61511bfecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4282428153
+    second: {fileID: 2100000, guid: becded18b34aa124a8a24c81818d92a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4284543698
+    second: {fileID: 2100000, guid: 7845e6c673a52c741adcec811d67a62c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4285332423
+    second: {fileID: 2100000, guid: 1faf86ec2b9d09d489f83f69ba8ea22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4285332435
+    second: {fileID: 2100000, guid: dc6caed2f11bff748926112ec50eda60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4285593847
+    second: {fileID: 2100000, guid: e721d3bc1ab5b2f4ea61fcc7e104f7c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4286902219
+    second: {fileID: 2100000, guid: 5b466b24e541d03448c70fb4f49f6b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4287233429
+    second: {fileID: 2100000, guid: adcef5349e2585c47915131be1021ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4287806718
+    second: {fileID: 2100000, guid: e29ccd21e0931de4bbda14951c1b4f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4287806718.001
+    second: {fileID: 2100000, guid: a5e7139c38e05b940bebb83af0a43848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4288281837
+    second: {fileID: 2100000, guid: 61609b8d88973a94f9e1f19f1aecdc8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4289525738
+    second: {fileID: 2100000, guid: 226c702d13de1c64a8a59d9379a73986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4293000439
+    second: {fileID: 2100000, guid: 65ec74ec2e3d6fc44a2dac7c0067457a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire 4293000439.001
+    second: {fileID: 2100000, guid: b9db256a87d693f40813e08b50fcfd0d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
