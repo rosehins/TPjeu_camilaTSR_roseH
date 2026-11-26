@@ -3,7 +3,77 @@ guid: f91e25171fcabe6408adec34cbdc702e
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acroterium
+    second: {fileID: 2100000, guid: 3c7dc7a363d7ee14fa002dfc584594ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antefix
+    second: {fileID: 2100000, guid: 1047320bc16b63246a3107ecdb4bed56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balustrade
+    second: {fileID: 2100000, guid: 70bafe82e5072254782c8e74c3cdd933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capital
+    second: {fileID: 2100000, guid: a2a9ca6e2f443594890900da2125b6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column
+    second: {fileID: 2100000, guid: 0bfdb1ef702956c4c98d0c1d7ef9d96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Column_acroterium
+    second: {fileID: 2100000, guid: 0bc9ac3e672c1214697f201eefb0e7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dome
+    second: {fileID: 2100000, guid: fc76e18d985e1874598c4b32b113d0f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Facing
+    second: {fileID: 2100000, guid: 138c67dde8428084d8e123b09f0c0a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ornament
+    second: {fileID: 2100000, guid: be2f165001a00624984a859ce5cc9847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part1_acroterium
+    second: {fileID: 2100000, guid: c4b838ff0deb7524495624474797b0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part2_acroterium
+    second: {fileID: 2100000, guid: 684a85529e8c60143bf8fcbcd8283287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stereobat
+    second: {fileID: 2100000, guid: 39503dcf12eb6bf49aa028b19c35d7db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tetraglyph
+    second: {fileID: 2100000, guid: 4ef3f8ab97f9d8b43ac303f694b6f7d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texts
+    second: {fileID: 2100000, guid: 5acd9532bc6eeee42b269a22c26c6cef, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
